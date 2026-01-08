@@ -1,3 +1,6 @@
 # Ignorar archivos de entorno y configuración
 .env
 .env.*
+
+# Ignorar  index.ts local
+index1.ts
